@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	int A = 0, D = 0, n,i;
+	int A = 0, D = 0, n, i;
 	scanf("%d", &n); // int -> 6
 	char arr[n];
 	scanf("%s", arr); // string -> A | D
